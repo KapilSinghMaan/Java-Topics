@@ -25,7 +25,7 @@ public class Program_70_a {
                 case SATURDAY, SUNDAY -> System.out.println("It is the weekend");
             }
         } catch (IllegalArgumentException e) {
-            System.out.println("Please enter a valid day");
+            System.out.println("Please enter a valid day!!!");
         }
 
         scanner.close();
