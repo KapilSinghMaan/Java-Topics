@@ -15,10 +15,15 @@ public class Program_69 {
         map.put("Coconut", 150.99);
 
         // map.get("Apple");
+
         // map.remove("Orange");
+
         //map.containsKey("pineapple");
+
         //map.containsValue(15.0);
+
         //map.size();
+        
         // System.out.println(map);
 
         for(String key:map.keySet())
