@@ -33,6 +33,7 @@ public class Program_63 {
         System.out.println("*****************");
         System.out.println("Welcome to Hangman Game!!!");
         System.out.println("*****************\n");
+        System.out.println("*****************\n");
         while (wrongGuess < 6) {
 
             if (wrongGuess > 0) {
