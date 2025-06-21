@@ -30,7 +30,6 @@ public class Program_63 {
         }
         int wrongGuess = 0;
         System.out.println("*****************");
-        System.out.println("*****************");
         System.out.println("Welcome to Hangman Game!!!");
         System.out.println("*****************\n");
         while (wrongGuess < 6) {
